@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                                          </tspan>
+<tspan x="15" y="50">                                          </tspan>
+<tspan x="15" y="70">             _---~~(~~-_.                 </tspan>
+<tspan x="15" y="90">           _{        )   )                </tspan>
+<tspan x="15" y="110">         ,   ) -~~- ( ,-' )_              </tspan>
+<tspan x="15" y="130">        (  `-,_..`., )-- '_,)             </tspan>
+<tspan x="15" y="150">       ( ` _)  (  -~( -_ `,  }            </tspan>
+<tspan x="15" y="170">       (_-  _  ~_-~~~~`,  ,' )            </tspan>
+<tspan x="15" y="190">         `~ -^(    __;-,((()))            </tspan>
+<tspan x="15" y="210">               ~~~~ {_ -_(())             </tspan>
+<tspan x="15" y="230">                      `\  }               </tspan>
+<tspan x="15" y="250">                        { }               </tspan>
+<tspan x="15" y="270">                         |                </tspan>
+<tspan x="15" y="290">              ___________|___________     </tspan>
+<tspan x="15" y="310">             |                       |    </tspan>
+<tspan x="15" y="330">             |   RAG pipelines       |    </tspan>
+<tspan x="15" y="350">             |   fine-tuned          |    </tspan>
+<tspan x="15" y="370">             |   embeddings          |    </tspan>
+<tspan x="15" y="390">             |   eval gates in CI    |    </tspan>
+<tspan x="15" y="410">             |_______________________|    </tspan>
+<tspan x="15" y="430">                         |                </tspan>
+<tspan x="15" y="450">                         v                </tspan>
+<tspan x="15" y="470">                   production             </tspan>
+<tspan x="15" y="490">                                          </tspan>
+<tspan x="15" y="510">                                          </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">lucas@aerdor1998 -———————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Windows + WSL2 (Ubuntu 22.04), Linux</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>.<tspan class="key">GitHub</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">3 years, 5 months, 9 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Brazil (PT-BR / EN)</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">AI Engineer - LLM systems in production</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Claude Code</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, TypeScript, SQL</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI/ML</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Pydantic AI, LangGraph, RAG, evals</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Portugues (BR), English</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">ApurAI</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">AI tax classification SaaS (BR)</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Metric</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">acc@1 0.068 to 0.447, gate in CI</tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">MedSafe</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">6-agent Rx screening, local LLM</tspan></tspan>
+<tspan x="390" y="330">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">lucasmsilva1998@gmail.com</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Aerdor1998</tspan></tspan>
+<tspan x="390" y="410">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="430"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">8</tspan> {<tspan class="key">Total</tspan>: <tspan class="value">18</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">228</tspan></tspan>
+<tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> . </tspan><tspan class="value">396,592</tspan> ( <tspan class="addColor">610,025</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">213,433</tspan><tspan class="delColor">--</tspan> )</tspan>
+</text>
+</svg>
